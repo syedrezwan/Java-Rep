@@ -5,6 +5,7 @@ public class Test1 {
 		System.out.println( "Welcome" );
 		System.out.println( "test 1" );
 		System.out.println( "push and commit" );
+		System.out.println( "commit" );
 	}
 
 }
